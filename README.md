@@ -21,7 +21,7 @@ npm install value-pair --save
 
 **Pair is super simple and intuitive class for merging two values.** It may be objects, strings, object and string, array and number, booleans, really whatever you need. 
 
-These types of classes are most often used to store a key and a value. **If you need to save more than two values and keep them together, it is highly recommended to create new and custom class. **
+These types of classes are most often used to store a key and a value. **If you need to save more than two values and keep them together, it is highly recommended to create new and custom class.**
 
 ```javascript
 
