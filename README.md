@@ -1,5 +1,5 @@
 
-![Pair class - banner](images/heading-image.png?raw=true "Pair - simple class for pairing values")
+![Pair class - banner](images/pair-heading-image.png?raw=true "Pair - simple class for pairing values")
 
 # Pair
 
