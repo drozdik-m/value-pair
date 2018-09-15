@@ -1,6 +1,6 @@
 {
   "name": "value-pair",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "I am a simple man. When I see two values that need to be paired, I don’t want any overcomplicated module. This may be the simplest module you have ever downloaded, but it’s worth it. This Pair class can pair values. It’s just an object with a constructor, two attributes and debug print method.",
   "main": "dist/pair.js",
   "typings": "dist/pair.d.ts",

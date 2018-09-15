@@ -1,5 +1,5 @@
 
-![Pair class - banner](images/pair-heading-image.png?raw=true "Pair - simple class for pairing values")
+![Pair class - banner](https://raw.githubusercontent.com/drozdik-m/value-pair/master/images/pair-heading-image.png "Pair - simple class for pairing values")
 
 # Pair
 
