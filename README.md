@@ -1,6 +1,3 @@
-
-![Pair class - banner](https://raw.githubusercontent.com/drozdik-m/value-pair/master/images/pair-heading-image.png "Pair - simple class for pairing values")
-
 # Pair
 
 "Pair" is a **simple pairing class**. This module is easy to use, light, small and has **no dependencies**.
